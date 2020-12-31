@@ -6,7 +6,7 @@ integration to get you started.
 ![](demo.gif)
 
 Prerequesites:
-+ golang
++ golang (to install from source)
 + ueberzug
 + imagemagick (for .svg previews)
 + ffmpeg (for video file thumbnails)
@@ -14,12 +14,10 @@ Prerequesites:
 
 ## 1. Install lf
 
-Get the source code and fetch the pull request which improves `lf`'s interface
-towards terminal image previews. Then build and install.
+Get the source code, build and install.
 
 ```
-git checkout "https://github.com/gokcehan/lf" .
-git fetch origin refs/pull/531/head # unless merged
+git clone "https://github.com/gokcehan/lf" .
 go install
 ```
 
