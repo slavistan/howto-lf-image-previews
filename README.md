@@ -1,7 +1,8 @@
 # Image Previews and Shell Integration for **lf**
 
-Step-by-step guide to a basic `lf` setup for image previews and shell
-integration to get you started.
+Getting-started guide to a basic `lf` setup for previews of images, documents
+and video thumbnails aswell as shell integration to change the working
+directory with `lf`.
 
 ![](demo.gif)
 
