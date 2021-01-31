@@ -4,6 +4,12 @@ Getting-started guide to a basic `lf` setup for previews of images, documents
 and video thumbnails aswell as shell integration to change the working
 directory with `lf`.
 
+---
+
+**UPDATE** Recent additions to `lf`'s shell interface allow to set up image previews and shell integration in a much cleaner fashion than the method shown below. See https://github.com/slavistan/lf-gadgets/tree/master/lf-ueberzug for the updated instructions. Note that the setup below remains fully functional, albeit unnecessarily complex.
+
+---
+
 ![](demo.gif)
 
 Prerequesites:
